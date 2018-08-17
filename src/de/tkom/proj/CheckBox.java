@@ -8,7 +8,7 @@ import javax.servlet.http.*;
 //Extend HttpServlet class
 public class CheckBox extends HttpServlet {
 
-// Method to handle GET method requesttttt.
+// Method to handle GET method request.
 public void doGet(HttpServletRequest request, HttpServletResponse response)
    throws ServletException, IOException {
    
