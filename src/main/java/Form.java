@@ -1,4 +1,4 @@
-package de.tkom.proj;
+package main.java;
 
 // Import required java libraries
 import java.io.*;

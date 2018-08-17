@@ -1,4 +1,4 @@
-package de.tkom.proj;
+package main.java;
 
 //Import required java libraries
 import java.io.*;
@@ -17,7 +17,7 @@ public void doGet(HttpServletRequest request, HttpServletResponse response)
    response.setContentType("text/html");
 
    PrintWriter out = response.getWriter();
-   String title = "Rrrreading All Form Parameterssss wasaiter";
+   String title = "Reading All Form Parameterss";
    String docType =
       "<!doctype html public \"-//w3c//dtd html 4.0 " + "transitional//en\">\n";
 

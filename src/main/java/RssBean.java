@@ -1,4 +1,4 @@
-package de.tkom.proj;
+package main.java;
 
 //Bean
 public class RssBean {

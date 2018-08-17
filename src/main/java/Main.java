@@ -1,4 +1,4 @@
-package de.tkom.proj;
+package main.java;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
