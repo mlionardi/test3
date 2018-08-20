@@ -16,17 +16,17 @@
 	
 	<servlet>
 		<servlet-name>Form</servlet-name>
-		<servlet-class>de.telekom.proj.Form</servlet-class>
+		<servlet-class>main.java.Form</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>CheckBox</servlet-name>
-		<servlet-class>de.telekom.proj.CheckBox</servlet-class>
+		<servlet-class>main.java.CheckBox</servlet-class>
 	</servlet>
 	
 	<servlet>
 		<servlet-name>ReadParams</servlet-name>
-		<servlet-class>de.telekom.proj.ReadParams</servlet-class>
+		<servlet-class>main.java.ReadParams</servlet-class>
 	</servlet>
 
 	

@@ -1,4 +1,4 @@
-package main.java;
+package test.java;
 
 /*
 * This class prints the given message on console.
