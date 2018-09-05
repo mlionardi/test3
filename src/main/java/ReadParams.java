@@ -28,7 +28,7 @@ public void doGet(HttpServletRequest request, HttpServletResponse response)
       "<h1 align = \"center\">" + title + "</h1>\n" +
       "<table width = \"100%\" border = \"1\" align = \"center\">\n" +
       "<tr bgcolor = \"#949494\">\n" +
-         "<th>huhuParam Name</th>" + 
+         "<th>huhu Param Name</th>" + 
          "<th>Param Value(s)</th>\n"+
       "</tr>\n"
    );
